@@ -1,0 +1,8 @@
+marithon-sof-extractor/
+├─ app.py
+├─ extractor.py
+├─ requirements.txt
+├─ sample_sof.txt
+├─ templates/
+│  ├─ index.html
+│  └─ result.html
